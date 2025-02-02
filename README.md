@@ -29,13 +29,8 @@ This is a simple **HTML CV** project that follows best practices for semantic HT
 2. Open `index.html` in your browser.
 3. Customize the CV content as needed.
 
-## 📸 Preview
-
-![HTML CV Preview](https://via.placeholder.com/800x400.png?text=HTML+CV+Preview)
-
 ## 🔗 Live Demo
-[Check it out here](https://your-username.github.io/html-cv-project/) *(Replace with your actual GitHub Pages link)*
-
+[Check it out here](https://mpastack.github.io/1-Single-Page-CV/) 
 ## 📜 License
 This project is open-source under the [MIT License](LICENSE).
 
